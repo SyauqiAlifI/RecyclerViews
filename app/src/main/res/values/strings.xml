@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">RecyclerView-Android</string>
+    <string name="first_recyclerview">First RecyclerView</string>
+    <string name="second_recyclerview">Second RecyclerView</string>
+    <string name="third_recyclerview">Third RecyclerView</string>
+    <string name="txt_judul">Judul</string>
+
+    <string-array name="AnimalList">
+        <item>Elephant</item>
+        <item>Goat</item>
+        <item>Cow</item>
+        <item>Llama</item>
+        <item>Horse</item>
+        <item>Donkey</item>
+        <item>Cat</item>
+        <item>Ocelot</item>
+        <item>Eagle</item>
+        <item>Falcon</item>
+        <item>Eel</item>
+        <item>Catfish</item>
+        <item>Crocodile</item>
+        <item>Fox</item>
+        <item>Bear</item>
+        <item>Orca</item>
+        <item>Creeper</item>
+    </string-array>
+    <string-array name="CarBrandList">
+        <item>Tesla</item>
+        <item>BMW</item>
+        <item>Ferrari</item>
+        <item>Ford</item>
+        <item>Porsche</item>
+        <item>Honda</item>
+        <item>Lamborghini</item>
+        <item>Toyota</item>
+        <item>Bentley</item>
+        <item>Maserati</item>
+    </string-array>
+
+</resources>
